@@ -1,0 +1,27 @@
+<http://lod.busan.go.kr/resource/Movie_국제시장>
+      a       <http://schema.org/CreativeWork> , <http://lod.busan.go.kr/ontology/Movie> , <http://lod.busan.go.kr/ontology/FilmFestivalEntry> ;
+      <http://www.w3.org/2000/01/rdf-schema#label>
+              "(한국영화특별상영)국제시장" , "국제시장" .
+
+<http://lod.knps.or.kr/resource/Woraksan_National_Park>
+      a       <http://lod.knps.or.kr/schema/class/NationalPark> , <http://schema.org/Place> ;
+      <http://www.w3.org/2000/01/rdf-schema#label>
+              "월악산"@ko , "Woraksan_National_Park"@en .
+<http://lod.fms.or.kr/resource/Dong-gu_Ulsan>
+      a       <http://rdfs.co/juso/SecondLevelAdministativeDivision> ;
+      <http://www.w3.org/2000/01/rdf-schema#label>
+              "동구" .
+
+<http://data.visitkorea.or.kr/resource/126481>
+      a       <http://data.visitkorea.or.kr/ontology/Place> , <http://www.w3.org/2002/07/owl#Thing> , <https://schema.org/Place> , <http://data.visitkorea.or.kr/ontology/NaturalAttraction> , <http://data.visitkorea.or.kr/ontology/Attraction> , <http://data.visitkorea.or.kr/ontology/Mountain> ;
+      <http://www.w3.org/2000/01/rdf-schema#label>
+              "도봉산"@ko .
+<http://opendata.kwater.or.kr/lod/id/Dam_1021701>
+      a       <http://opendata.kwater.or.kr/lod/def/Dam> , <http://opendata.kwater.or.kr/lod/def/Facility> ;
+      <http://www.w3.org/2000/01/rdf-schema#label>
+              "군남" .
+
+<http://lod.koreanhistory.or.kr/resources/인명_이순신>
+      a       <http://xmlns.com/foaf/0.1#Person> ;
+      <http://www.w3.org/2000/01/rdf-schema#label>
+              "이순신(李舜臣)"^^<http://www.w3.org/2001/XMLSchema#string> , "이순신"^^<http://www.w3.org/2001/XMLSchema#string> .
